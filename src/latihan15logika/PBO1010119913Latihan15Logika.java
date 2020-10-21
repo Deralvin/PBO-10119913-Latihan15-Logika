@@ -9,8 +9,10 @@ package latihan15logika;
  *
  * @author Muhammad Alvin Rizqi Ramadhan
  * @author NIM 10119913
+ * Kelas : IF10K
+ * Deskripsi Program : Program Class Logika
  */
-public class Latihan15Logika {
+public class PBO1010119913Latihan15Logika {
 
     /**
      * @param args the command line arguments
